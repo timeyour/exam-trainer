@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "examName": "示例科目 C 模拟考试",
+    "source": "demo",
+    "generatedDate": "2026-01-01",
+    "totalQuestions": 6,
+    "note": "演示题库，仅供开源示例。"
+  },
+  "questions": [
+    {
+      "id": "S201",
+      "sourceNumber": "201",
+      "type": "single",
+      "question": "命题逻辑中，∧ 通常表示？",
+      "options": [
+        {
+          "key": "A",
+          "text": "与"
+        },
+        {
+          "key": "B",
+          "text": "或"
+        },
+        {
+          "key": "C",
+          "text": "非"
+        },
+        {
+          "key": "D",
+          "text": "异或"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "explanation": "∧ 表示逻辑与。",
+      "chapter": "第一章",
+      "cognitiveLevel": "理解",
+      "difficulty": 2,
+      "validForExam": true,
+      "validForStudy": true
+    },
+    {
+      "id": "S202",
+      "sourceNumber": "202",
+      "type": "single",
+      "question": "集合 {1,2,3} 的元素个数是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "key": "D",
+          "text": "0"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "explanation": "该集合有 3 个元素。",
+      "chapter": "第一章",
+      "cognitiveLevel": "理解",
+      "difficulty": 2,
+      "validForExam": true,
+      "validForStudy": true
+    },
+    {
+      "id": "J201",
+      "sourceNumber": "201",
+      "type": "judge",
+      "question": "空集是任何集合的子集。",
+      "options": [],
+      "answer": [
+        "正确"
+      ],
+      "explanation": "空集是任何集合的子集。",
+      "chapter": "第二章",
+      "cognitiveLevel": "理解",
+      "difficulty": 2,
+      "validForExam": true,
+      "validForStudy": true
+    },
+    {
+      "id": "S203",
+      "sourceNumber": "203",
+      "type": "single",
+      "question": "导数描述的是函数的什么？",
+      "options": [
+        {
+          "key": "A",
+          "text": "变化率"
+        },
+        {
+          "key": "B",
+          "text": "面积"
+        },
+        {
+          "key": "C",
+          "text": "体积"
+        },
+        {
+          "key": "D",
+          "text": "颜色"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "explanation": "导数表示变化率。",
+      "chapter": "第二章",
+      "cognitiveLevel": "理解",
+      "difficulty": 2,
+      "validForExam": true,
+      "validForStudy": true
+    },
+    {
+      "id": "M201",
+      "sourceNumber": "201",
+      "type": "multiple",
+      "question": "以下哪些是线性代数常见对象？",
+      "options": [
+        {
+          "key": "A",
+          "text": "向量"
+        },
+        {
+          "key": "B",
+          "text": "矩阵"
+        },
+        {
+          "key": "C",
+          "text": "表情包"
+        },
+        {
+          "key": "D",
+          "text": "行列式"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "向量、矩阵、行列式属于线性代数。",
+      "chapter": "第三章",
+      "cognitiveLevel": "理解",
+      "difficulty": 2,
+      "validForExam": true,
+      "validForStudy": true
+    },
+    {
+      "id": "S204",
+      "sourceNumber": "204",
+      "type": "single",
+      "question": "概率 P 的取值范围通常是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "[0,1]"
+        },
+        {
+          "key": "B",
+          "text": "[-1,1]"
+        },
+        {
+          "key": "C",
+          "text": "[0,100]"
+        },
+        {
+          "key": "D",
+          "text": "任意实数"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "explanation": "概率在 0 到 1 之间。",
+      "chapter": "第三章",
+      "cognitiveLevel": "理解",
+      "difficulty": 2,
+      "validForExam": true,
+      "validForStudy": true
+    }
+  ]
+}

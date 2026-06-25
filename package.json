@@ -1,0 +1,14 @@
+{
+  "name": "exam-trainer",
+  "private": false,
+  "version": "1.0.0",
+  "description": "Multi-course exam prep PWA (public demo)",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test test/*.test.cjs",
+    "banks:bundle": "node scripts/bundle-banks.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^10.7.9"
+  }
+}

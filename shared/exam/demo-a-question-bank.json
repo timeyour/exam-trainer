@@ -1,0 +1,243 @@
+{
+  "meta": {
+    "examName": "示例科目 A 模拟考试",
+    "source": "demo",
+    "generatedDate": "2026-01-01",
+    "totalQuestions": 8,
+    "note": "演示题库，仅供开源示例。"
+  },
+  "questions": [
+    {
+      "id": "S001",
+      "sourceNumber": "001",
+      "type": "single",
+      "question": "下列哪一项属于编程语言？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Python"
+        },
+        {
+          "key": "B",
+          "text": "JPEG"
+        },
+        {
+          "key": "C",
+          "text": "MP3"
+        },
+        {
+          "key": "D",
+          "text": "PNG"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "explanation": "Python 是编程语言。",
+      "chapter": "第一章",
+      "cognitiveLevel": "理解",
+      "difficulty": 2,
+      "validForExam": true,
+      "validForStudy": true
+    },
+    {
+      "id": "S002",
+      "sourceNumber": "002",
+      "type": "single",
+      "question": "变量主要用于存储什么？",
+      "options": [
+        {
+          "key": "A",
+          "text": "数据"
+        },
+        {
+          "key": "B",
+          "text": "显示器亮度"
+        },
+        {
+          "key": "C",
+          "text": "键盘布局"
+        },
+        {
+          "key": "D",
+          "text": "网线长度"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "explanation": "变量用于存储程序运行中的数据。",
+      "chapter": "第一章",
+      "cognitiveLevel": "理解",
+      "difficulty": 2,
+      "validForExam": true,
+      "validForStudy": true
+    },
+    {
+      "id": "S003",
+      "sourceNumber": "003",
+      "type": "judge",
+      "question": "循环结构可以重复执行同一段代码。",
+      "options": [],
+      "answer": [
+        "正确"
+      ],
+      "explanation": "循环用于重复执行。",
+      "chapter": "第二章",
+      "cognitiveLevel": "理解",
+      "difficulty": 2,
+      "validForExam": true,
+      "validForStudy": true
+    },
+    {
+      "id": "S004",
+      "sourceNumber": "004",
+      "type": "single",
+      "question": "if 语句的作用是什么？",
+      "options": [
+        {
+          "key": "A",
+          "text": "条件分支"
+        },
+        {
+          "key": "B",
+          "text": "格式化硬盘"
+        },
+        {
+          "key": "C",
+          "text": "关闭网络"
+        },
+        {
+          "key": "D",
+          "text": "打印纸张"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "explanation": "if 用于按条件选择不同路径。",
+      "chapter": "第二章",
+      "cognitiveLevel": "理解",
+      "difficulty": 2,
+      "validForExam": true,
+      "validForStudy": true
+    },
+    {
+      "id": "M001",
+      "sourceNumber": "001",
+      "type": "multiple",
+      "question": "以下哪些属于常见数据类型？",
+      "options": [
+        {
+          "key": "A",
+          "text": "整数"
+        },
+        {
+          "key": "B",
+          "text": "字符串"
+        },
+        {
+          "key": "C",
+          "text": "桌布颜色"
+        },
+        {
+          "key": "D",
+          "text": "布尔值"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "整数、字符串、布尔值都是常见数据类型。",
+      "chapter": "第三章",
+      "cognitiveLevel": "理解",
+      "difficulty": 2,
+      "validForExam": true,
+      "validForStudy": true
+    },
+    {
+      "id": "S005",
+      "sourceNumber": "005",
+      "type": "single",
+      "question": "函数的主要好处是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "代码复用"
+        },
+        {
+          "key": "B",
+          "text": "增加屏幕分辨率"
+        },
+        {
+          "key": "C",
+          "text": "更换操作系统"
+        },
+        {
+          "key": "D",
+          "text": "提高室温"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "explanation": "函数把逻辑封装起来便于复用。",
+      "chapter": "第三章",
+      "cognitiveLevel": "理解",
+      "difficulty": 2,
+      "validForExam": true,
+      "validForStudy": true
+    },
+    {
+      "id": "J001",
+      "sourceNumber": "001",
+      "type": "judge",
+      "question": "注释会被编译器/解释器当作程序逻辑执行。",
+      "options": [],
+      "answer": [
+        "错误"
+      ],
+      "explanation": "注释不参与执行。",
+      "chapter": "第四章",
+      "cognitiveLevel": "理解",
+      "difficulty": 2,
+      "validForExam": true,
+      "validForStudy": true
+    },
+    {
+      "id": "S006",
+      "sourceNumber": "006",
+      "type": "single",
+      "question": "调试（debug）的主要目的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "查找并修复错误"
+        },
+        {
+          "key": "B",
+          "text": "删除所有变量"
+        },
+        {
+          "key": "C",
+          "text": "禁止用户输入"
+        },
+        {
+          "key": "D",
+          "text": "关闭计算机"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "explanation": "调试用于定位并修复程序错误。",
+      "chapter": "第四章",
+      "cognitiveLevel": "理解",
+      "difficulty": 2,
+      "validForExam": true,
+      "validForStudy": true
+    }
+  ]
+}
